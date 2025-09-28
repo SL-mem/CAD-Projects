@@ -1,5 +1,5 @@
 # CAD-Projects
-Some of classical CAD projects
+Some CAD projects
 
 ## Radial Engine
 ![Radial Engine CAD](radial_engine_CAD.png)
